@@ -1,5 +1,5 @@
 _repo: Metsasissi-Kuvaus-Amerikan-Lannesta_61862
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Riukuniemi, Kaarlo
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '51648'
     url: http://www.gutenberg.org/2009/agents/51648
     wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Riukuniemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferry, Gabriel
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gabriel_Ferry
     - https://fr.wikipedia.org/wiki/Gabriel_Ferry
 description: 'Abridged translation of: Le coureur des bois, ou, Les chercheurs d''or.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61862#Metsasissi-Kuvaus-Amerikan-Lannesta
 gutenberg_issued: '2020-04-18'
 gutenberg_type: Text
 identifiers:
