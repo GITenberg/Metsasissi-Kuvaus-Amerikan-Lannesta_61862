@@ -1,0 +1,46 @@
+_repo: Metsasissi-Kuvaus-Amerikan-Lannesta_61862
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Riukuniemi, Kaarlo
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '51648'
+    url: http://www.gutenberg.org/2009/agents/51648
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Riukuniemi
+creator:
+  author:
+    agent_name: Ferry, Gabriel
+    aliases:
+    - Bellemare, Eugène Louis Gabriel de
+    - Bellemare, Eugene Louis Gabriel de
+    - Bellemare, Louis de
+    - Bellemare, Gabriel Ferry de
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '45999'
+    url: http://www.gutenberg.org/2009/agents/45999
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriel_Ferry
+    - https://fr.wikipedia.org/wiki/Gabriel_Ferry
+description: 'Abridged translation of: Le coureur des bois, ou, Les chercheurs d''or.'
+gutenberg_issued: '2020-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61862'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Upper class -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcsh 'Mexico -- Fiction'
+- !lcsh 'Trappers -- Fiction'
+- GITenberg
+title: 'Metsäsissi: Kuvaus Amerikan Lännestä'
+url: http://www.gutenberg.org/ebooks/61862
